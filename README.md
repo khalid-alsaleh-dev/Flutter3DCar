@@ -21,6 +21,12 @@ This project designed using figma and built using flutter.
   
 
 ## 🖼 Screenshots
+![Screenshot 2023-04-18 175630](https://user-images.githubusercontent.com/67127338/232819737-7a26406f-b416-4cb9-9cd6-34425db6cc71.png)
+![Screenshot 2023-04-18 175702](https://user-images.githubusercontent.com/67127338/232820253-9a8b744f-f306-4426-a138-fd242de11388.png)
+![Screenshot 2023-04-18 175726](https://user-images.githubusercontent.com/67127338/232820577-2e88ac4d-e76b-445e-a1c7-d7a27dd7a19c.png)
+
+
+
 
 
 ## 👨‍💻 Auther
