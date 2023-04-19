@@ -13,7 +13,7 @@ class Room extends StatelessWidget {
       child: ModelViewer(
         id: "room",
         src: 'assets/models/room/Room.gltf',
-        alt: "A 3D model of an astronaut",
+        alt: "A 3D model of a room",
         cameraOrbit: '0deg 60deg 1mm',
         minFieldOfView: '3deg',
         maxFieldOfView: '6deg',
