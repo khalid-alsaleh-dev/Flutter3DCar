@@ -15,7 +15,7 @@ class Car extends StatelessWidget {
         src: 'assets/models/car/scene.gltf',
         interpolationDecay: 500,
         xrEnvironment: false,
-        alt: "A 3D model of an astronaut",
+        alt: "A 3D model of car",
         cameraOrbit: '90deg 40deg 1mm',
         minFieldOfView: '30deg',
         maxFieldOfView: '28deg',
